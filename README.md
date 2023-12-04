@@ -3,7 +3,7 @@ Week 1 code refactor challenge for Horiseon website.
 
 ## Description
 
-A project to use semantic-HTML, alt tags for images, and comments in code to improve accesibility and updating the existing codebase.
+A project to use semantic-HTML, alt attributes and text for images, and comments in code to improve accesibility and for updating the existing codebase.
 
 - Changed existing div tags to use semantic HTML5 tags.
 - Commented HTML and CSS files.
