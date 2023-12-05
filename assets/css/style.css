@@ -10,7 +10,7 @@ body {
 
 /* -  Header styles -   */
 
-.header { 
+header { 
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;/* set header background to #2a607c*/
@@ -19,20 +19,20 @@ body {
 
 /* display all the header elements inline at 48px */
 
-.header h1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 /* set .seo class color to #d9dcd6*/
 
-.header h1 .seo {
+header h1 .seo {
     color: #d9dcd6;
     display:inline;
 }
 
 /* - Header navigation  - list displayed inline  */
 
-.header nav {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -40,11 +40,11 @@ body {
     font-size: 20px;
 }
 
-.header nav ul {
+header nav ul {
     list-style-type: none;
 }
 
-.header nav ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
