@@ -9,7 +9,7 @@ A project to use semantic-HTML, alt attributes and text for images, and comments
 - Commented HTML and CSS files.
 - Added alt tags and text to improve accessibility and improve search engine ranking.
 - Fixed first link/anchor tag in navigation bar.
-- Published at 'https://franciswilkinson.github.io/horiseon/'
+- Published at [franciswilkinson.github.io/horiseon/](linkurlhttps://franciswilkinson.github.io/horiseon/)
 
 ![Horiseon Social Solution Services webpage](https://github.com/franciswilkinson/horiseon/blob/main/assets/images/franciswilkinson.github.io.jpeg "Horiseon Social Solution Services")
 
